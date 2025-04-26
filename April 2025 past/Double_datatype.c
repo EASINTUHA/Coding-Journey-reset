@@ -1,0 +1,12 @@
+// Complete the code by updating the uderscores(__)
+#include <stdio.h>
+
+int main() {
+
+  double pi = 3.14;
+  double radius = 8.9;
+  double area = pi * radius * radius;
+
+  printf("The Area of the given Circle is %lf", area);
+  
+}
